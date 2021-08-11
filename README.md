@@ -1,4 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Khanh%20Tram&fontSize=70)
+
 ### Hi there 👋
+
+
+
+
 
 <!--
 **tramhuynh20/tramhuynh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
